@@ -18,18 +18,23 @@
     background-size: cover;
     opacity: 0.7;
     background-position: 0 -200px;
+    background-repeat: no-repeat;
 }
 
 .carousel-image-2{
     background: url('../img/image2.jpg');
     background-size: cover;
     background-position: 0 -200px;
+    background-repeat: no-repeat;
 }
+
+    
 
 .carousel-image-3{
     background: url('../img/image3.jpg');
     background-size: cover;
     background-position: 0 -200px;
+    background-repeat: no-repeat;
 }
 
 #cards a{
