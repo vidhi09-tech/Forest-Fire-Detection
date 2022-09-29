@@ -1,3 +1,2 @@
 # Forest-Fire-Detection
-https://forest-fire-detection.netlify.app/
-
+https://iridescent-faun-874c8b.netlify.app/
